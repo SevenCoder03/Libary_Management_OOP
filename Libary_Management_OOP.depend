@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1669771470 source:d:\object_oriented_programming\libary_management_oop\src\account.cpp
+	"ACCOUNT.h"
+
+1670999204 d:\object_oriented_programming\libary_management_oop\include\account.h
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1670997591 source:d:\object_oriented_programming\libary_management_oop\src\accountslist.cpp
+	"ACCOUNTSLIST.h"
+
+1670036758 d:\object_oriented_programming\libary_management_oop\include\accountslist.h
+	"ACCOUNT.h"
+	"ADMIN.h"
+	"USER.h"
+	<vector>
+
+1670999953 source:d:\object_oriented_programming\libary_management_oop\src\admin.cpp
+	"ADMIN.h"
+
+1669771470 d:\object_oriented_programming\libary_management_oop\include\admin.h
+	"ACCOUNT.h"
+
+1669771470 source:d:\object_oriented_programming\libary_management_oop\src\book.cpp
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1669771470 d:\object_oriented_programming\libary_management_oop\include\book.h
+	<iostream>
+	"DATE.h"
+
+1669771470 d:\object_oriented_programming\libary_management_oop\include\date.h
+	<iostream>
+	<cstring>
+	<time.h>
+	<fstream>
+
+1669947168 d:\object_oriented_programming\libary_management_oop\include\functionpublic.h
+	<conio.h>
+	<iostream>
+	<string.h>
+
+1671037854 source:d:\object_oriented_programming\libary_management_oop\src\bookslist.cpp
+	"BOOKSLIST.h"
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1669771470 d:\object_oriented_programming\libary_management_oop\include\bookslist.h
+	"BOOK.h"
+	"DATE.h"
+	<iostream>
+	<vector>
+	<string.h>
+	<sstream>
+
+1669771470 source:d:\object_oriented_programming\libary_management_oop\src\borrow_return.cpp
+	"BORROW_RETURN.h"
+
+1669771470 d:\object_oriented_programming\libary_management_oop\include\borrow_return.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"READERSLIST.h"
+	"BOOKSLIST.h"
+	"DATE.h"
+	"FUNCTIONPUBLIC.h"
+	<fstream>
+
+1670410550 d:\object_oriented_programming\libary_management_oop\include\readerslist.h
+	<iostream>
+	<vector>
+	"READER.h"
+	"STUDENT.h"
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	"ACCOUNTSLIST.h"
+	<sstream>
+	<string.h>
+
+1670999183 d:\object_oriented_programming\libary_management_oop\include\reader.h
+	<iostream>
+	<cstring>
+	"DATE.h"
+	<vector>
+	<conio.h>
+
+1669771470 d:\object_oriented_programming\libary_management_oop\include\student.h
+	"READER.h"
+	<vector>
+
+1669771470 d:\object_oriented_programming\libary_management_oop\include\teacher.h
+	"READER.h"
+
+1670997591 source:d:\object_oriented_programming\libary_management_oop\src\borrow_returnslist.cpp
+	"BORROW_RETURNSLIST.h"
+	<fstream>
+
+1670401200 d:\object_oriented_programming\libary_management_oop\include\borrow_returnslist.h
+	<iostream>
+	"BORROW_RETURN.h"
+
+1669771470 source:d:\object_oriented_programming\libary_management_oop\src\date.cpp
+	"DATE.h"
+	<iomanip>
+
+1669771470 source:d:\object_oriented_programming\libary_management_oop\src\reader.cpp
+	"READER.h"
+
+1671000147 source:d:\object_oriented_programming\libary_management_oop\src\readerslist.cpp
+	"READERSLIST.h"
+	<iomanip>
+
+1669771470 source:d:\object_oriented_programming\libary_management_oop\src\student.cpp
+	"STUDENT.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1669771470 source:d:\object_oriented_programming\libary_management_oop\src\teacher.cpp
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1670999953 source:d:\object_oriented_programming\libary_management_oop\src\user.cpp
+	"USER.h"
+
+1669771470 d:\object_oriented_programming\libary_management_oop\include\user.h
+	"ACCOUNT.h"
+
+1672213595 source:d:\object_oriented_programming\libary_management_oop\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<conio.h>
+	"BORROW_RETURNSLIST.h"
+	"ACCOUNTSLIST.h"
+	"ADMIN.h"
+	"USER.h"
+
+1669947168 source:d:\object_oriented_programming\libary_management_oop\src\functionpublic.cpp
+	"FUNCTIONPUBLIC.h"
+

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Libary_Management_OOP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Libary_Management_OOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Libary_Management_OOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/ACCOUNT.h" />
+		<Unit filename="include/ACCOUNTSLIST.h" />
+		<Unit filename="include/ADMIN.h" />
+		<Unit filename="include/BOOK.h" />
+		<Unit filename="include/BOOKSLIST.h" />
+		<Unit filename="include/BORROW_RETURN.h" />
+		<Unit filename="include/BORROW_RETURNSLIST.h" />
+		<Unit filename="include/DATE.h" />
+		<Unit filename="include/FUNCTIONPUBLIC.h" />
+		<Unit filename="include/READER.h" />
+		<Unit filename="include/READERSLIST.h" />
+		<Unit filename="include/STUDENT.h" />
+		<Unit filename="include/TEACHER.h" />
+		<Unit filename="include/USER.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/ACCOUNT.cpp" />
+		<Unit filename="src/ACCOUNTSLIST.cpp" />
+		<Unit filename="src/ADMIN.cpp" />
+		<Unit filename="src/BOOK.cpp" />
+		<Unit filename="src/BOOKSLIST.cpp" />
+		<Unit filename="src/BORROW_RETURN.cpp" />
+		<Unit filename="src/BORROW_RETURNSLIST.cpp" />
+		<Unit filename="src/DATE.cpp" />
+		<Unit filename="src/FUNCTIONPUBLIC.cpp" />
+		<Unit filename="src/READER.cpp" />
+		<Unit filename="src/READERSLIST.cpp" />
+		<Unit filename="src/STUDENT.cpp" />
+		<Unit filename="src/TEACHER.cpp" />
+		<Unit filename="src/USER.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
