@@ -1,5 +1,5 @@
 # Libary_Management_OOP
-**Dự Án Kết Thúc Học Phần Môn Lập Trình Hướng Đối Tượng OOP**
+**Đồ Án Kết Thúc Học Phần Môn Lập Trình Hướng Đối Tượng OOP**
 
 # Thông Tin Môn Học:
 </br>**Học Phần :** Lập Trình Hướng Đối Tượng
