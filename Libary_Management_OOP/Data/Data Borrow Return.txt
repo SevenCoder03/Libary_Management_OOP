@@ -1,0 +1,14 @@
+1,21H1120033,2,Dev Up,Python Danh Cho Nguoi Moi Bat Dau,01/10/2022,08/10/2022,0
+2,21H1120036,2,Giao Trinh C++,Thinking In Java,11/10/2022,18/10/2022,1
+3,2051150141,3,Cang Bien Va Logistics,Quyen Luc Bien,Quan Ly Nha Nuoc Ve Kinh Te,12/10/2022,19/10/2022,0
+4,2151150059,2,Thinking In Java,Giao Trinh Kinh Te Chinh Tri,12/10/2022,19/10/2022,1
+5,2051120209,3,Lich Su Dang Cong San Viet Nam,Co Dien Tu,Giao Trinh Vat Lieu Ban Dan,14/10/2022,21/10/2022,0
+6,2151150056,4,International Corporate Finance,Van Tai Container Duong Bien Den Nam 2025,Giao Trinh Kinh Te Thuong Mai,Lich Su Dang Cong San Viet Nam,23/10/2022,30/10/2022,0
+7,0021120001,1,Giao Trinh Triet Hoc Mac Lenin,24/10/2022,31/10/2022,1
+8,0071120053,1,Giao Trinh Triet Hoc Mac Lenin,25/10/2022,01/11/2022,1
+9,0051120046,1,Thinking In Java,08/11/2022,15/11/2022,1
+10,21H1120013,1,Giao Trinh Triet Hoc Mac Lenin,09/11/2022,16/11/2022,0
+11,21H1120013,1,Python Danh Cho Nguoi Bat Dau,22/11/2022,29/11/2022,1
+12,21H1120013,1,Giao Trinh Triet Hoc Mac Lenin,29/11/2022,06/12/2022,0
+13,21H1120013,2,Dev Up,Giao Trinh C++,15/12/2022,22/12/2022,0
+14,21H1120013,0,22/12/2022,29/12/2022,0

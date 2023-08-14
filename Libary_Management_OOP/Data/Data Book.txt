@@ -1,0 +1,26 @@
+0987654321,Code La De,Do Kim Lam,Cong Nghe Thong Tin,2022,Cong Nghe Thong Tin,10000,50,50
+1513459542,Logistics Va Van Tai Quoc Te,TS. Tran Nguyen Hop Chau,Hong Duc,2021,Hang Hai,123750,45,45
+1984120415,Giao Trinh Vat Lieu Ban Dan,Phung Ho,Khoa Hoc Va Ky Thuat,2008,Xay Dung,154000,50,50
+2030070003,Phat Trien Kinh Te,Nguyen Van Phuong,Kinh Te TP.HCM,2015,Kinh Te,227000,50,50
+3531924955,Tu Tot Den Vi Dai,Jim Collins,Tre,2021,Kinh Te,116000,20,20
+3578324109,Nguyen Ly Thiet Ke Cau Tao Cac Cong Trinh,Vo Dinh Diep,Xay Dung,2018,Xay Dung,138000,40,40
+4296782013,The Industries Of The Future,Alec Ross,Simon & Schuster,2016,Cong Nghe Thong Tin,425300,25,25
+4974171485,Quan Ly Nha Nuoc Ve Kinh Te,Nhieu Tac Gia,Dai Hoc Quoc Gia Ha Noi,2015,Kinh Te,79000,60,60
+5013850324,Vat Lieu Xay Dung,GS. TS. Pham Duy Huu,Giao Thong Van Tai,2016,Xay Dung,165750,40,40
+5562169282,Giao Trinh Kinh Te Thuong Mai,Nhieu Tac Gia,Lao Dong - Xa Hoi,2018,Kinh Te,179900,50,50
+6102200341,Van Tai Container Duong Bien Den Nam 2025,Lars Jensen,Dai Hoc Kinh Te Quoc Gia,2018,Hang Hai,188000,77,77
+7291323565,Giao Trinh Kinh Te Chinh Tri,Bo Giao Duc Va Dao Tao,Chinh Tri Quoc Gia Su That,2021,Chinh Tri,63000,60,59
+8212445872,Thinking In Java,Bruce Eckel,Pearson Education,1998,Cong Nghe Thong Tin,402900,5,0
+8219340420,Quyen Luc Bien,James G. Stavridis,Chinh Tri Quoc Gia Su That,2022,Hang Hai,17900,50,50
+8627414202,Chu Nghia Xa Hoi Khoa Hoc,Bo Giao Duc Va Dao Tao,Chinh Tri Quoc Gia Su That,2021,Chinh Tri,59200,60,60
+8935095624,Giao Trinh C++,Le Truong Thong,Bach Khoa Ha Noi,2017,Cong Nghe Thong Tin,137000,50,49
+8935279133,Giao Trinh Triet Hoc Mac Lenin,Bo Giao Duc Va Dao Tao,Chinh Tri Quoc Gia Su That,2021,Chinh Tri,100000,60,57
+8936107812,Clean Code,Mai Luu,Dan Tri,2022,Cong Nghe Thong Tin,335820,10,10
+9012495722,Lich Su Dang Cong San Viet Nam,Bo Giao Duc Va Dao Tao,Chinh Tri Quoc Gia Su That,2021,Chinh Tri,66299,70,70
+9786043176,Co Dien Tu,Ha Quang Phuc,Thanh Nien,2021,Cong Nghe Thong Tin,175000,30,30
+9786043415,Python Danh Cho Nguoi Bat Dau,Pham Quang Huy,Thanh Nien,2022,Cong Nghe Thong Tin,152250,80,80
+9786043443,Cang Bien Va Logistics,Dang Duong,Dan Tri,2021,Hang hai,174000,50,50
+9786043543,Lap Trinh Ung Dung,Pham Quang Huan,Thanh Nien,2022,Cong Nghe Thong Tin,167040,50,50
+9786047787,Dev Up,Nguyen Hien,The Gioi,2021,Cong Nghe Thong Tin,141000,99,99
+9789814416,International Corporate Finance,Thomsom Learning,Cengage Learning,2012,Kinh Te,230000,15,15
+9845310512,Ket Cau Dac Biet Bang Be Tong Cot Thep,Nguyen Le Ninh,Xay Dung,2020,Xay Dung,99000,30,30
